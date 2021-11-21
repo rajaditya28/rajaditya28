@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaditya28&label=Visitors&color=0e75b6&style=flat" alt="rajaditya28" /> </p> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaditya28&label=Visitors&color=0e75b6&style=flat" alt="rajaditya28" /> </p>
 
 - 🌱 I’m currently learning **React, Machine Learning and Data Structures and Algorithms**
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **rajadityapqrst@gmail.com**
 
 - 📄 Know about me : [https://rajaditya28.github.io/Portfolio-Website/cv/cv.html?](https://rajaditya28.github.io/Portfolio-Website/cv/cv.html?)
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-raj2821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-raj2821" height="30" width="40" /></a>
