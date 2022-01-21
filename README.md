@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaditya28&label=Visitors&color=0e75b6&style=flat" alt="rajaditya28" /> </p>
 
-- 🌱 I’m currently learning **React, Machine Learning and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Machine Learning and Data Structures and Algorithms**
 
 - ⚡ I’m looking to collaborate on a full stack invoicing application - [Arc Invoice](https://github.com/Panshak/arcinvoice)
 
