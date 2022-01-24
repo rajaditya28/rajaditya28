@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi, I'm Aditya👋</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajaditya28&label=Visitors&color=0e75b6&style=flat" alt="rajaditya28" /> </p>
